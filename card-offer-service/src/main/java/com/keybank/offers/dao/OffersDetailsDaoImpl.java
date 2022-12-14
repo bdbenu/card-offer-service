@@ -4,11 +4,24 @@
  */
 package com.keybank.offers.dao;
 
+import org.springframework.stereotype.Component;
+
+import com.keybank.offers.model.OffersDaoRequest;
+import com.keybank.offers.model.OffersDaoResponse;
+
 /**
  * @author 91955 at Nov 17, 2022
  *
  *
  */
-public class OffersDetailsDaoImpl {
+
+@Component
+public class OffersDetailsDaoImpl implements IOffersDetailsDao{
+
+	@Override
+	public OffersDaoResponse getoffers(OffersDaoRequest offersDaoRequest) {
+		
+		return null;
+	}
 
 }

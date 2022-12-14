@@ -4,11 +4,14 @@
  */
 package com.keybank.offers.exception;
 
+import org.springframework.stereotype.Component;
+
 /**
  * @author 91955 at Nov 17, 2022
  *
  *
  */
+@Component
 public class OffersRequestInvalidException {
 
 }
