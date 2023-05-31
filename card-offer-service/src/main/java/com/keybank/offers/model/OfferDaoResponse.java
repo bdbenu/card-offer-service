@@ -10,5 +10,8 @@ package com.keybank.offers.model;
  *
  */
 public class OfferDaoResponse {
+private void syso() {
+	// TODO Auto-generated method stub
 
+}
 }

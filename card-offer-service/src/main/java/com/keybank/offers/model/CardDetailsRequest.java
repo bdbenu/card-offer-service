@@ -10,5 +10,10 @@ package com.keybank.offers.model;
  *
  */
 public class CardDetailsRequest {
+	
+	private void syso() {
+		
+
+	}
 
 }

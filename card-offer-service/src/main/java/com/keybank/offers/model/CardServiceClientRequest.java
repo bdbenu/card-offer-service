@@ -10,5 +10,7 @@ package com.keybank.offers.model;
  *
  */
 public class CardServiceClientRequest {
-
+public CardServiceClientRequest() {
+	// TODO Auto-generated constructor stub
+}
 }
