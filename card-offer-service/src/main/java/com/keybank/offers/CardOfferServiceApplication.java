@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CardOfferServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CardOfferServiceApplication.class, args);
+		SpringApplication.run(CardOfferServiceApplication.class, args); 
 	}
 
 }
