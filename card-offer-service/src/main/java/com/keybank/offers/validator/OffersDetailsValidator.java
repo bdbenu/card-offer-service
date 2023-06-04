@@ -9,6 +9,6 @@ package com.keybank.offers.validator;
  *
  *
  */
-public class OffersDetailsValidator {
+public class OffersDetailsValidator { 
 
 }
